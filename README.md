@@ -8,5 +8,5 @@ A machine learning based tool for predicting short-term clinical outcome of myas
 
 ## File explanation
 
-- MG_predictive_multiclass.pkl: the trained machine-learning model
-- ML pycaret Final.html and ML pycaret Final.ipynb: the training code 
+- **MG_predictive_multiclass.pkl**: the trained machine-learning model
+- **ML pycaret Final.html** and **ML pycaret Final.ipynb**: the training code 
