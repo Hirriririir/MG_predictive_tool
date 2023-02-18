@@ -1,6 +1,6 @@
 # MG_predictive_tool
 
-A machine learning based tool for predicting short-term clinical outcome of myasthenia gravis
+A machine-learning-based tool for predicting short-term clinical outcomes of myasthenia gravis
 
 ![image](https://user-images.githubusercontent.com/74590379/219355840-d3b599b6-f6ba-4a69-a114-023a08afe5f6.png)
 
